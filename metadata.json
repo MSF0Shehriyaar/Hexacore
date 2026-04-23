@@ -1,0 +1,5 @@
+{
+  "name": "HexaCore",
+  "description": "A unified 6-dimensional ecosystem for global learning, elite coding, professional networking, career acceleration, digital knowledge mastery, and AI innovation.",
+  "requestFramePermissions": ["microphone", "camera"]
+}
